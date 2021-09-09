@@ -1,2 +1,2 @@
 # dap-course
-knu data analysis programming course
+Repository for data analysis programming course.
